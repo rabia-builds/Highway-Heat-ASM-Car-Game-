@@ -9,7 +9,8 @@ You can copy-paste this directly into GitHub:
 ## 🎮 Demo
 
 ▶️ Watch Gameplay Video:
-(Add your video link here, e.g. YouTube or Google Drive)
+https://github.com/rabia-builds/Highway-Heat-ASM-Car-Game-/blob/main/demo.mp4
+
 
 ---
 
