@@ -153,14 +153,4 @@ A fully working car  game with multiple environments, real-time control, and pro
 
 ---
 
-## 🎥 Demo Video (IMPORTANT)
 
-Since your demo is a video:
-
-* Upload it to YouTube (best) OR Google Drive
-* Replace the link in the README under **Demo section**
-
----
-
-
-Just tell me 👍
